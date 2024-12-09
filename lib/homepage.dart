@@ -19,8 +19,7 @@ import 'package:myapp/others/profileedit.dart';
 import 'package:myapp/mainpages/qrcode.dart';
 import 'package:myapp/mainpages/qrscan.dart';
 import 'package:myapp/mainpages/sevices.dart';
-import 'package:myapp/service/service_home.dart';
-import 'package:myapp/shop/shop_homescreen.dart';
+
 import 'package:myapp/usertype.dart';
 
 import 'signup.dart';
